@@ -1,0 +1,108 @@
+124295473B20161012172604958934.bad.pdf
+-o nul -sDEVICE=nullpage -r36x36 D:\BadPdf\124295473B20161012172604958934.bad.pdf
+GPL Ghostscript 9.22 (2017-10-04)
+Copyright (C) 2017 Artifex Software, Inc.  All rights reserved.
+This software comes with NO WARRANTY: see the file PUBLIC for details.
+   **** Warning:  File has an invalid xref entry:  12.  Rebuilding xref table.
+Processing pages 1 through 4.
+Page 1
+Page 2
+Page 3
+   **** Error: stream Length incorrect.
+               Output may be incorrect.
+GPL Ghostscript 9.22: Unrecoverable error, exit code 1
+
+   **** Error: File has insufficient data for an image.
+               Output may be incorrect.
+Page 4
+Error: /typecheck in --known--
+Operand stack:
+   4   1   --nostringval--   --nostringval--   --nostringval--   --nostringval--   --nostringval--   Kids
+Execution stack:
+   %interp_exit   .runexec2   --nostringval--   --nostringval--   --nostringval--   2   %stopped_push   --nostringval--
+  --nostringval--   --nostringval--   false   1   %stopped_push   2015   1   3   %oparray_pop   2014   1   3   %oparray_
+pop   1998   1   3   %oparray_pop   --nostringval--   --nostringval--   5   1   4   --nostringval--   %for_pos_int_conti
+nue   --nostringval--   --nostringval--   --nostringval--   --nostringval--   %loop_continue   --nostringval--   4   1
+ 3   --nostringval--   %for_pos_int_continue   --nostringval--
+Dictionary stack:
+   --dict:987/1684(ro)(G)--   --dict:1/20(G)--   --dict:83/200(L)--   --dict:83/200(L)--   --dict:133/256(ro)(G)--   --d
+ict:302/450(ro)(G)--   --dict:32/32(L)--
+Current allocation mode is local
+Last OS error: No such file or directory
+Exit Code: 1
+Error Message: 'GPL Ghostscript 9.22: Unrecoverable error, exit code 1
+'
+Exit Code: 1
+124295473B20161013122838994463.good.pdf
+-o nul -sDEVICE=nullpage -r36x36 D:\BadPdf\124295473B20161013122838994463.good.pdf
+GPL Ghostscript 9.22 (2017-10-04)
+Copyright (C) 2017 Artifex Software, Inc.  All rights reserved.
+This software comes with NO WARRANTY: see the file PUBLIC for details.
+Processing pages 1 through 4.
+Page 1
+Page 2
+Page 3
+Page 4
+Exit Code: 0
+Exit Code: 0
+124942773B20161019140337169896.bad.pdf
+-o nul -sDEVICE=nullpage -r36x36 D:\BadPdf\124942773B20161019140337169896.bad.pdf
+GPL Ghostscript 9.22 (2017-10-04)
+Copyright (C) 2017 Artifex Software, Inc.  All rights reserved.
+This software comes with NO WARRANTY: see the file PUBLIC for details.
+Processing pages 1 through 4.
+Page 1
+Page 2
+Page 3
+
+   **** Error: File has insufficient data for an image.
+               Output may be incorrect.
+Page 4
+
+   **** This file had errors that were repaired or ignored.
+   **** Please notify the author of the software that produced this
+   **** file that it does not conform to Adobe's published PDF
+   **** specification.
+
+   **** The rendered output from this file may be incorrect.
+Exit Code: 0
+Exit Code: 1
+125191714B20161011094247622190.bad.pdf
+-o nul -sDEVICE=nullpage -r36x36 D:\BadPdf\125191714B20161011094247622190.bad.pdf
+GPL Ghostscript 9.22 (2017-10-04)
+Copyright (C) 2017 Artifex Software, Inc.  All rights reserved.
+This software comes with NO WARRANTY: see the file PUBLIC for details.
+Processing pages 1 through 4.
+Page 1
+Page 2
+Page 3
+Page 4
+
+   **** Error: File has insufficient data for an image.
+               Output may be incorrect.
+
+   **** This file had errors that were repaired or ignored.
+   **** Please notify the author of the software that produced this
+   **** file that it does not conform to Adobe's published PDF
+   **** specification.
+
+   **** The rendered output from this file may be incorrect.
+Exit Code: 0
+Exit Code: 1
+125191714B20161013123037127205.good.pdf
+-o nul -sDEVICE=nullpage -r36x36 D:\BadPdf\125191714B20161013123037127205.good.pdf
+GPL Ghostscript 9.22 (2017-10-04)
+Copyright (C) 2017 Artifex Software, Inc.  All rights reserved.
+This software comes with NO WARRANTY: see the file PUBLIC for details.
+Processing pages 1 through 4.
+Page 1
+Page 2
+Page 3
+Page 4
+Exit Code: 0
+Exit Code: 0
+124295473B20161012172604958934.bad.pdf - Bad
+124295473B20161013122838994463.good.pdf - Good
+124942773B20161019140337169896.bad.pdf - Bad
+125191714B20161011094247622190.bad.pdf - Bad
+125191714B20161013123037127205.good.pdf - Good
